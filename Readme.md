@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🎯 I'm currently working on<br>Building scalable backend systems @QuantaraTech and running LLM experiments @Turing (OpenAI client)<br><br>🤝 I'm looking to collaborate on<br>AI-powered web apps, backend architecture, and open-source developer tools<br><br>🙋‍♂️ I'm looking for help with<br>Contributing to GenAI open-source projects and learning advanced system design<br><br>🌱 I'm currently learning<br>Scaling microservices · Vector DBs · Prompt engineering · LangChain · Firebase<br><br>💬 Ask me about<br>Backend development · LLM Ops · Teaching code to kids · Project management<br>
+ 🎯 I'm currently working on<br>Building scalable backend systems @QuantaraTech and running LLM experiments @Turing (OpenAI client)<br><br>🤝 I'm looking to collaborate on<br>AI-powered web apps, backend architecture, and open-source developer tools<br><br>🙋‍♂️ I'm looking for help with<br>Contributing to GenAI open-source projects and learning advanced system design<br><br>🌱 I'm currently learning<br>Scaling microservices · Vector DBs · Prompt engineering · LangChain · Firebase<br><br>💬 Ask me about<br>Backend development · LLM Ops · Project management<br>
 
 
 ## 🌐 Socials:
